@@ -1,0 +1,15 @@
+C:\Samples\ASM\Infrastructure.Interface\bin\Debug\net5.0\Infrastructure.Interface.deps.json
+C:\Samples\ASM\Infrastructure.Interface\bin\Debug\net5.0\Infrastructure.Interface.dll
+C:\Samples\ASM\Infrastructure.Interface\bin\Debug\net5.0\ref\Infrastructure.Interface.dll
+C:\Samples\ASM\Infrastructure.Interface\bin\Debug\net5.0\Infrastructure.Interface.pdb
+C:\Samples\ASM\Infrastructure.Interface\bin\Debug\net5.0\Models.dll
+C:\Samples\ASM\Infrastructure.Interface\bin\Debug\net5.0\Models.pdb
+C:\Samples\ASM\Infrastructure.Interface\obj\Debug\net5.0\Infrastructure.Interface.csprojAssemblyReference.cache
+C:\Samples\ASM\Infrastructure.Interface\obj\Debug\net5.0\Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samples\ASM\Infrastructure.Interface\obj\Debug\net5.0\Infrastructure.Interface.AssemblyInfoInputs.cache
+C:\Samples\ASM\Infrastructure.Interface\obj\Debug\net5.0\Infrastructure.Interface.AssemblyInfo.cs
+C:\Samples\ASM\Infrastructure.Interface\obj\Debug\net5.0\Infrastructure.Interface.csproj.CoreCompileInputs.cache
+C:\Samples\ASM\Infrastructure.Interface\obj\Debug\net5.0\Infrastructure.Interface.csproj.CopyComplete
+C:\Samples\ASM\Infrastructure.Interface\obj\Debug\net5.0\Infrastructure.Interface.dll
+C:\Samples\ASM\Infrastructure.Interface\obj\Debug\net5.0\ref\Infrastructure.Interface.dll
+C:\Samples\ASM\Infrastructure.Interface\obj\Debug\net5.0\Infrastructure.Interface.pdb

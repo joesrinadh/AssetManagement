@@ -1,0 +1,11 @@
+C:\Samples\ASM\Models\bin\Debug\net5.0\Models.deps.json
+C:\Samples\ASM\Models\bin\Debug\net5.0\Models.dll
+C:\Samples\ASM\Models\bin\Debug\net5.0\ref\Models.dll
+C:\Samples\ASM\Models\bin\Debug\net5.0\Models.pdb
+C:\Samples\ASM\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samples\ASM\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Samples\ASM\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Samples\ASM\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Samples\ASM\Models\obj\Debug\net5.0\Models.dll
+C:\Samples\ASM\Models\obj\Debug\net5.0\ref\Models.dll
+C:\Samples\ASM\Models\obj\Debug\net5.0\Models.pdb
